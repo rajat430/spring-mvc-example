@@ -4,6 +4,7 @@ public class Employee {
 
 	public String empName;
 	public int empId;
+	static string name="rajat"
 	
 	public Employee(String empName, int empId) {
 		super();
